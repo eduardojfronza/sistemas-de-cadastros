@@ -1,5 +1,9 @@
 # Sistemas de cadastros #
 
+
+> Aprendendo como usar git e github
+
+Para rodar esse projeto na sua maquina, por favor digite:
 ```
-Aprendendo como usar git e github
+node app.js
 ```
